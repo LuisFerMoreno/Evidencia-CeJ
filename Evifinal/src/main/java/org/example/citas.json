@@ -1,0 +1,13 @@
+{
+  "Citas": [{
+    "Id Cita": "250",
+    "Id paciente": "122",
+    "Nombre del paciente": "Luis Moreno",
+    "Fecha": "11/11/2022",
+    "Hora": "9:30",
+    "Motivo": "Tos aguda",
+    "Id doctor": "350"
+  }]
+
+
+}[{"Id Paciente":"122","Id Doctor":"350","Fecha":"26\/08\/2022","Hora":"7:35p.m.","Id Cita":"251","Motivo":"Dolor de cabeza intentso"}]
